@@ -28,9 +28,9 @@ This project analyzes the Superstore dataset using Microsoft Excel to answer key
 
 ## Dashboard Preview
 
-![Dashboard](Images/dashboard1.png)
+![Dashboard](Images/DashBoard1.jpeg)
 
-![Dashboard](Images/dashboard2.png)
+![Dashboard](Images/DashBoard2.jpeg)
 
 ## Key KPIs
 
